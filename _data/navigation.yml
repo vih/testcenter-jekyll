@@ -1,0 +1,36 @@
+main:
+  - title: Løb, cykling og triatlon
+    url: "/triatlon/"
+  - title: Holdsport
+    url: "/holdsport/"
+  - title: Gymnasier og skoler
+    url: "/gymnasier-og-skoler/"
+  - title: Om testcenteret
+    url: "/om/"
+  - title: Kontakt
+    url: "#"
+footer:
+  - title: Tests
+    children:
+      - title: Løb, cykling & triatlon
+        url: "#"
+      - title: Holdsport
+        url: "#"
+      - title: Gymnasier og skoler
+        url: "#"
+social:
+  - title: Facebook
+    icon: facebook
+    url: "#"
+  - title: Instagram
+    icon: instagram
+    url: "#"
+footer:
+  - title: Vores links
+    children:
+      - title: Vejle Idrætshøjskole
+        url: "#"
+      - title: Vejle Idrætsefterskole
+        url: "#"
+      - title: Facebook
+        url: "#"

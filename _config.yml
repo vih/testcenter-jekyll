@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-remote_theme:            "lsolesen/freelancer-theme"
+remote_theme:            "lsolesen/Stanley-Jekyll"
 minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 
 # Site Settings
@@ -223,18 +223,19 @@ compress_html:
     envs: development
 
 
-# Defaults
+# Add custom collections
+collections:
+  pages:
+    output: true
+
+
+# Set defaults
 defaults:
-  # _posts
-  - scope:
+  -
+    scope:
       path: ""
-      type: posts
+      type: "posts"
     values:
-      layout: single
-      author_profile: true
-      read_time: true
-      listen_time: false
-      video_time: false
-      comments: true
-      share: true
-      related: true
+      layout: "post"
+      author: "Stanley Stinson"
+
