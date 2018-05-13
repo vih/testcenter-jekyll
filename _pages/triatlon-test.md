@@ -1,5 +1,6 @@
 ---
 layout: page
+show_headline: true
 title: Triatlontests (cykel og løb)
 intro: Vi byder både motionisten og elite-udøveren velkommen i testcentret.
 hero:

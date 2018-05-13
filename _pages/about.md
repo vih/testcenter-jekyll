@@ -1,8 +1,9 @@
 ---
 layout: page
 permalink: /om/
-title: "VEJLE IDRÆTSSKOLERS TESTCENTER"
-intro: "Vejle Idrætsskolers testcenter er placeret i Nørreskoven i Vejle og er til dagligt en del af det idrætslige og undervisningsmæssige miljø på Vejle Idrætshøjskole og Idrætsefterskole. Udover at blive brugt til testning af elever på højskolen og efterskolen, så byder vi også privatpersoner, klubber og gymnasier velkommen."
+show_headline: true
+title: "Vejle Idrætsskolers Testcenter"
+intro: "Vejle Idrætsskolers Testcenter er placeret i Nørreskoven i Vejle og er til dagligt en del af det idrætslige og undervisningsmæssige miljø på Vejle Idrætshøjskole og Idrætsefterskole. Udover at blive brugt til testning af elever på højskolen og efterskolen, så byder vi også privatpersoner, klubber og gymnasier velkommen."
 hero:
   text: >-
     <p>I skal have meget ros for den energi, som I får skabt i lokalet. Stemningen var meget professionel, men samtidig afslappet - det var meget motiverende.</p>

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Løb, cykling & triatlon
+show_headline: true
 intro: Vi byder både motionisten og elite-udøveren velkommen i testcentret.
 permalink: /triatlon/
 hero:

@@ -25,6 +25,36 @@ comments:
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
+
+# Address
+address:
+  - Vejle Idrætsskoler
+  - Ørnebjergvej 28
+  - 7100 Vejle
+
+# Footer
+footer:
+  address_headline: "Adresse"
+  links_headline: "Links"
+  links:
+    - title: "Løb, cykling & triatlon"
+      url: "#"
+    - title: "Holdsport"
+      url: "#"
+    - title: "Gymnasier og skoler"
+      url: "#"
+    - title: "Vejle Idrætshøjskole"
+      url: "#"
+    - title: "Vejle Idrætsefterskole"
+      url: "#"
+    - title: "Facebook"
+      url: "#"
+    - title: "Instagram"
+      url: "#"
+  about_headline: "About Testcenteret"
+  about: "Testcenteret er en integreret del af Vejle Idrætshøjskole og -Idrætsefterskole - og vi er åben for eksterne tests."
+
+
 # SEO Related
 google_site_verification :
 bing_site_verification   :
