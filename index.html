@@ -7,24 +7,8 @@ hero:
   text: >-
     <p>I skal have meget ros for den energi, som I får skabt i lokalet. Stemningen var meget professionel, men samtidig afslappet - det var meget motiverende.</p>
     <p>- Line Schulz, 800m & 1500m DM-sølvvinder 2017</p>
-grid:
-  - title: Løb, cykling & triatlon
-    url: "#"
-    image: https://testcenter.vih.dk/sites/testcenter.local/files/styles/panopoly_image_spotlight/public/pages/2k2a1286-2.jpg?itok=QnD06aaN
-    description: "En fysiologisk test inden for enten cykling, løb eller triatlon, er et vigtigt redskab til at skabe udvikling gennem målrettet træning og øget motivation."
-    published: true
-  - title: Holdsport
-    url: "#"
-    image: https://testcenter.vih.dk/sites/testcenter.local/files/styles/panopoly_image_spotlight/public/pages/www-5.jpg?itok=yfQEC8zp
-    description: "Den fysiske træning er en uundgåelig og integreret del af holdsport i stadig stigende grad. Igennem relevante og specifikke tests er det muligt at monitorere, om træningen også flytter på spillernes fysiske parametre."
-    published: true
-  - title: Gymnasier og skoler
-    url: "#"
-    image: https://testcenter.vih.dk/sites/testcenter.local/files/styles/panopoly_image_spotlight/public/22769801_10155365268676888_2277267399803618771_o.jpg?itok=l-_tKPFB
-    description: "Vi tilbyder skole- og gymnasieklasser testforløb, som giver en praktisk tilgang til den idrætsbiologiske undervisning."
-    published: true
 ---
 
-{% assign projects = site.pages | where: "tags", "featured" | sort: "date" %}
+{% assign projects = site.pages | where: "tags", "featured" %}
 
 {% include grid.html grid=projects %}

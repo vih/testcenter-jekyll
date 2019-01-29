@@ -13,22 +13,6 @@ description: "En fysiologisk test inden for enten cykling, løb eller triatlon, 
 published: true
 tags:
   - featured
-grid:
-  - title: Løbetests
-    url: "#"
-    image: https://testcenter.vih.dk/sites/testcenter.local/files/styles/panopoly_image_original/public/wysiwyg/icons8-running-100_1.png?itok=AkDdhiPi
-    description: "Her kan du læse nærmere om de løbetests, vi tilbyder i testcentret, samt priserne derpå. Vi tilbyder desuden mulighed for rabatter for grupper, klubber og forløb."
-    published: true
-  - title: Cykeltests
-    url: "#"
-    image: https://testcenter.vih.dk/sites/testcenter.local/files/styles/panopoly_image_original/public/wysiwyg/icons8-cycling-80.png?itok=h-zmes-r
-    description: "Testcentret tilbyder følgende testpakker inden for cykling (landevej og mountainbike). Priser og uddybende beskrivelser af tests findes også her."
-    published: true
-  - title: Triatlontests (cykel og løb)
-    url: "#"
-    image: https://testcenter.vih.dk/sites/testcenter.local/files/styles/panopoly_image_original/public/triatlon.png?itok=ggXLP-3L
-    description: "Vi tilbyder følgende testpakker inden for triatlon, som er kombinerede cykel- og løbetest (også relevant for duatleter og adventureracere). Uddybende beskrivelser og priser kan også ses her."
-    published: true
 ---
 
 {% assign projects = site.pages | where: "tags", "triatlon" | sort: "date" %}

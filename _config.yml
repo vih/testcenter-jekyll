@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 remote_theme:            "lsolesen/Stanley-Jekyll"
-minimal_mistakes_skin:   "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+skin:   "dark" # "default", "dark"
 
 # Site Settings
 locale                   : "da"
@@ -14,14 +14,12 @@ title                    : "Vejle Idrætshøjskoles Testcenter"
 title_separator          : "-"
 name                     : "Vejle Idrætshøjskole Testcenter"
 description              : "Vejle Idrætshøjskoles Testcenter"
+email                    : "testcenter@vih.dk"
+logo                     : "https://testcenter.vih.dk/sites/testcenter.local/files/vejle_idraetsskolers_testcenter_neg180_2.png"
 url                      : "" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "vih/testcenter-jekyll" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
-comments:
-  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
@@ -51,7 +49,7 @@ footer:
       url: "#"
     - title: "Instagram"
       url: "#"
-  about_headline: "About Testcenteret"
+  about_headline: "Om Testcenteret"
   about: "Testcenteret er en integreret del af Vejle Idrætshøjskole og -Idrætsefterskole - og vi er åben for eksterne tests."
 
 
@@ -62,64 +60,11 @@ alexa_site_verification  :
 yandex_site_verification :
 
 
-# Social Sharing
-twitter:
-  username               : "vihdk"
-facebook:
-  username               : "vihdk"
-  app_id                 :
-  publisher              :
-og_image                 : # Open Graph/Twitter default site image
-# For specifying social profiles
-# - https://developers.google.com/structured-data/customize/social-profiles
-social:
-  type                   : "Organization" # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
-  links: # An array of links to social media profiles
-
-
-# Site search
-search: true
-
-
 # Analytics
 analytics:
   provider               : "google-universal" # false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          : ""
-
-
-# Site Author
-author:
-  name             : "Vejle Idrætshøjskole"
-  avatar           : "/assets/images/authors/vih-logo.png"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Grundlagt i 1942 under navnet Den Jyske Idrætsskole. Første hold starter i 1943. Fra 1998 Vejle Idrætshøjskole og fra 2007 kommer Vejle Idrætsefterskole til."
-  location         : "Vejle"
-  email            : "webmaster@vih.dk"
-  uri              : "https://vih.dk/"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : "groups/655406751295188"
-  foursquare       :
-  github           : "vih/historie.git"
-  gitlab           :
-  google_plus      :
-  keybase          :
-  instagram        : "vihdk"
-  lastfm           :
-  linkedin         :
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  steam            :
-  tumblr           :
-  twitter          : "vihdk"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          : "https://www.youtube.com/watch?v=Dml7gh_V7Uc&list=PLGMthFEYpLt-fp7_hhgbEbcqlnUwLEyEI"
 
 
 # Reading Files
@@ -268,4 +213,3 @@ defaults:
     values:
       layout: "post"
       author: "Stanley Stinson"
-

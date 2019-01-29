@@ -14,26 +14,20 @@ tags:
   - triatlon
 ---
 
-Submaksimal løbetest
-Pris: 1000,- inkl. moms
+{% assign projects = site.pages | where: "tags", "løbetest" | sort: "date" %}
 
-Formålet er her at bestemme den fysiske kapacitet ved den aerobe (AeT) og anaerobe tærskel (AT), som samlet vil give et fyldestgørende billede af udholdenheden for kredsløb og muskler. Testen udføres på løbebånd, og der måles løbende iltoptagelse, CO2-udveksling, puls, laktat, arbejdsintensitet og løbeøkonomi. Ud fra dette identificeres træningszoner, der kan bruges i den efterfølgende træningsperiode.
+{% include grid.html grid=projects %}
 
-Klik her for at læse en nærmere beskrivelse af den submaksimale løbetest.
+## Rabatter
 
-Submaksimal & maksimal løbetest
-Pris: 1500,- inkl. moms
+### Testforløb
 
-Udover den submaksimale test (se beskrivelse til venstre) udføres der her også en maksimal test, hvor formålet er at bestemme den maksimale aerobe arbejdskapacitet, herunder den maksimale iltoptagelseshastighed og kondital. Der måles maksimale værdier for iltoptagelse, CO2-udveksling, puls, lungekapacitet, og laktat.
-
-Klik her for at læse en nærmere beskrivelse af den maksimale løbetest.
-
-Rabatter
-Testforløb
 Ved bestilling af to eller flere tests fordelt over en periode, tilbyder vi rabat-muligheder ved et testforløb. Dette er anbefalelsesværdigt, hvis du gerne vil følge din udvikling, idet du vil få nyttig feedback på den træning, der er blevet udført i perioden mellem testene. Kontakt os for nærmere information og pristilbud.
 
-Grupper
+### Grupper
+
 Er I en mindre gruppe på mellem 2-4 personer, der har mulighed for at blive testet sammenhængende på én dag, kan der laves et tilbud baseret på antallet af personer. For nærmere priser og information kontakt testcentret.
 
-Klubtilbud
+### Klubtilbud
+
 Er I en klub eller et hold hvor flere personer ønsker at blive testet, kan der laves et klubtilbud baseret på antallet af tests. For nærmere priser og information kontakt testcentret.
