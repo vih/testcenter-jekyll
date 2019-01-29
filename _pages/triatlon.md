@@ -8,7 +8,7 @@ hero:
   text: >-
     <p>I skal have meget ros for den energi, som I får skabt i lokalet. Stemningen var meget professionel, men samtidig afslappet - det var meget motiverende.</p>
     <p>- Line Schulz, 800m & 1500m DM-sølvvinder 2017</p>
-image: https://testcenter.vih.dk/sites/testcenter.local/files/styles/panopoly_image_spotlight/public/pages/2k2a1286-2.jpg?itok=QnD06aaN
+image: /assets/images/2k2a1286-2.jpg
 description: "En fysiologisk test inden for enten cykling, løb eller triatlon, er et vigtigt redskab til at skabe udvikling gennem målrettet træning og øget motivation."
 published: true
 tags:

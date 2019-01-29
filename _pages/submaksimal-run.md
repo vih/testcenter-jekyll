@@ -7,7 +7,7 @@ hero:
   text: >-
     <p>Stor tak til Vejle Idrætsskolers Testcenter for at blive "tæsket" igennem på løbebåndet. Det kan varmt anbefales!</p>
     <p>- Kennie, København</p>
-image: https://testcenter.vih.dk/sites/testcenter.local/files/styles/panopoly_image_original/public/wysiwyg/icons8-cycling-80.png?itok=h-zmes-r
+image: /assets/images/icons8-cycling-80.png
 description: "Udover den submaksimale test (se beskrivelse til venstre) udføres der her også en maksimal test, hvor formålet er at bestemme den maksimale aerobe arbejdskapacitet, herunder den maksimale iltoptagelseshastighed og kondital. Der måles maksimale værdier for iltoptagelse, CO2-udveksling, puls, lungekapacitet, og laktat."
 published: true
 price: 1000,-

@@ -3,7 +3,7 @@ layout: page
 title: Holdsport
 show_headline: true
 permalink: /holdsport/
-image: https://testcenter.vih.dk/sites/testcenter.local/files/styles/panopoly_image_spotlight/public/pages/www-5.jpg?itok=yfQEC8zp
+image: /assets/images/www-5.jpg
 description: "Den fysiske træning er en uundgåelig og integreret del af holdsport i stadig stigende grad. Igennem relevante og specifikke tests er det muligt at monitorere, om træningen også flytter på spillernes fysiske parametre."
 published: true
 tags:

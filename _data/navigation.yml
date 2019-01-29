@@ -8,29 +8,29 @@ main:
   - title: Om testcenteret
     url: "/om/"
   - title: Kontakt
-    url: "#"
+    url: "/kontakt"
 footer:
   - title: Tests
     children:
       - title: Løb, cykling & triatlon
-        url: "#"
+        url: "/triatlon/"
       - title: Holdsport
-        url: "#"
+        url: "/holdsport/"
       - title: Gymnasier og skoler
-        url: "#"
+        url: /gymnasier-og-skoler/"
 social:
   - title: Facebook
     icon: facebook
-    url: "#"
+    url: "https://www.facebook.com/vejletestcenter/"
   - title: Instagram
     icon: instagram
-    url: "#"
+    url: "https://www.instagram.com/vihdk/"
 footer:
   - title: Vores links
     children:
       - title: Vejle Idrætshøjskole
-        url: "#"
+        url: "https://www.vih.dk"
       - title: Vejle Idrætsefterskole
-        url: "#"
+        url: "https://www.vies.dk"
       - title: Facebook
-        url: "#"
+        url: "https://www.facebook.com/vejletestcenter/"

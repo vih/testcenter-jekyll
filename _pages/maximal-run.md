@@ -7,7 +7,7 @@ hero:
   text: >-
     <p>Jeg vil gerne have lov at sige rigtigt mange tak for et rigtigt spændende forløb. Jeg kan samstemmende fra mine kollegaer og jeg selv sige, at det har været rigtigt spændende og lærerigt, så det har været en rigtig god oplevelse for os.</p>
     <p>- Tue, Skanderborg</p>
-image: https://testcenter.vih.dk/sites/testcenter.local/files/styles/panopoly_image_original/public/wysiwyg/icons8-cycling-80.png?itok=h-zmes-r
+image: /assets/images/icons8-cycling-80.png
 description: "Formålet er her at bestemme den fysiske kapacitet ved den aerobe (AeT) og anaerobe tærskel (AT), som samlet vil give et fyldestgørende billede af udholdenheden for kredsløb og muskler. Testen udføres på løbebånd, og der måles løbende iltoptagelse, CO2-udveksling, puls, laktat, arbejdsintensitet og løbeøkonomi. Ud fra dette identificeres træningszoner, der kan bruges i den efterfølgende træningsperiode."
 published: true
 price: 1500,-

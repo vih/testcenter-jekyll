@@ -3,7 +3,7 @@ layout: page
 title: Gymnasier og skoler
 show_headline: true
 permalink: /gymnasier-og-skoler/
-image: https://testcenter.vih.dk/sites/testcenter.local/files/styles/panopoly_image_spotlight/public/22769801_10155365268676888_2277267399803618771_o.jpg?itok=l-_tKPFB
+image: /assets/images/22769801_10155365268676888_2277267399803618771_o.jpg
 description: "Vi tilbyder skole- og gymnasieklasser testforløb, som giver en praktisk tilgang til den idrætsbiologiske undervisning."
 published: true
 tags: 

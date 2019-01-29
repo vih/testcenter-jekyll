@@ -7,7 +7,7 @@ hero:
   text: >-
     <p>I skal have meget ros for den energi, som I får skabt i lokalet. Stemningen var meget professionel, men samtidig afslappet - det var meget motiverende.</p>
     <p>- Line Schulz, 800m & 1500m DM-sølvvinder 2017</p>
-image: https://testcenter.vih.dk/sites/testcenter.local/files/styles/panopoly_image_original/public/triatlon.png?itok=ggXLP-3L
+image: /assets/images/triatlon.png
 description: "Vi tilbyder følgende testpakker inden for triatlon, som er kombinerede cykel- og løbetest (også relevant for duatleter og adventureracere). Uddybende beskrivelser og priser kan også ses her."
 published: true
 tags:

@@ -7,7 +7,7 @@ hero:
   text: >-
     <p>I skal have meget ros for den energi, som I får skabt i lokalet. Stemningen var meget professionel, men samtidig afslappet - det var meget motiverende.</p>
     <p>- Line Schulz, 800m & 1500m DM-sølvvinder 2017</p>
-image: https://testcenter.vih.dk/sites/testcenter.local/files/styles/panopoly_image_original/public/wysiwyg/icons8-running-100_1.png?itok=AkDdhiPi
+image: /assets/images/icons8-running-100_1.png
 description: "Her kan du læse nærmere om de løbetests, vi tilbyder i testcentret, samt priserne derpå. Vi tilbyder desuden mulighed for rabatter for grupper, klubber og forløb."
 published: true
 tags:

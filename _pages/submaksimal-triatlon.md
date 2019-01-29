@@ -7,7 +7,7 @@ hero:
   text: >-
     <p>Stor tak til Vejle Idrætsskolers Testcenter for at blive "tæsket" igennem på løbebåndet. Det kan varmt anbefales!</p>
     <p>- Kennie, København</p>
-image: https://testcenter.vih.dk/sites/testcenter.local/files/styles/panopoly_image_original/public/wysiwyg/icons8-cycling-80.png?itok=h-zmes-r
+image: /assets/images/icons8-cycling-80.png
 description: "Formålet med denne submaksimale testpakke er at bestemme den fysiske kapacitet ved den aerobe (AeT) og anaerobe tærskel (AT), som samlet vil give et fyldestgørende billede af udholdenheden for kredsløb og muskler ved både cykling og løb. Der måles løbende iltoptagelse, CO2-udveksling, puls, laktat, arbejdsintensitet og bevægelsesøkonomi. Ud fra dette identificeres træningszoner, der kan bruges i den efterfølgende træningsperiode."
 published: true
 price: 1600,-
