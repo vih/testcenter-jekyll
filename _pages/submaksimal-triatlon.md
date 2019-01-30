@@ -2,7 +2,7 @@
 layout: page
 title: Submaksimal cykel- og løbetest
 show_headline: true
-intro: Vi tilbyder bl.a. submaksimale løbetests i testcenteret.
+intro: Her får du bestemt din submaksimale ydeevne til triatlon.
 hero:
   text: >-
     <p>Stor tak til Vejle Idrætsskolers Testcenter for at blive "tæsket" igennem på løbebåndet. Det kan varmt anbefales!</p>
@@ -23,3 +23,5 @@ Testen består af 10 min opvarmning og herefter 3-5 belastningstrin af 5 min. Te
 - Submax-test, løb: Belastningstrin á 5 minutter, hvor intensiteten øges med 1 km/t mellem hvert trin. Der startes med relativ let intensitet, og sluttes ved en intensitet lige omkring "laktat-tærsklen" (ca. 4 mmol laktat), hvorefter testen afsluttes efter det igangværende interval
 
 Samlet varighed: ca. halvanden time
+
+[Bestil en test](/kontakt){: .btn .btn-warning .btn-large}

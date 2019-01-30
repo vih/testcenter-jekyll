@@ -22,3 +22,5 @@ Ved at gøre brug af bl.a. digitale fotoceller og hoppemåtter, er det muligt fo
 - Yo-yo interval restitutionstest 1 eller 2
 
 Kontakt os på linket herunder, og lad os sammen se på mulighederne for at få optimeret den fysiske træning i jeres klub.
+
+[Bestil en test](/kontakt){: .btn .btn-warning .btn-large}

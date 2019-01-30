@@ -1,28 +1,24 @@
 ---
 layout: page
-title: Cykeltests
+title: Løbetests
 show_headline: true
 intro: Vi byder både motionisten og elite-udøveren velkommen i testcentret.
 hero:
   text: >-
     <p>I skal have meget ros for den energi, som I får skabt i lokalet. Stemningen var meget professionel, men samtidig afslappet - det var meget motiverende.</p>
     <p>- Line Schulz, 800m & 1500m DM-sølvvinder 2017</p>
-image: /assets/images/icons8-cycling-80.png
-description: "Testcentret tilbyder følgende testpakker inden for cykling (landevej og mountainbike). Priser og uddybende beskrivelser af tests findes også her."
+image: /assets/images/icons8-running-100_1.png
+description: "Her kan du læse nærmere om de løbetests, vi tilbyder i testcentret, samt priserne derpå. Vi tilbyder desuden mulighed for rabatter for grupper, klubber og forløb."
 published: true
 tags:
   - triatlon
 ---
 
-{% include figure image_path="/assets/images/cykeltest.jpg" alt="Cykeltest i Testcenteret" %}
+{% include figure image_path="/assets/images/testcenter-132.jpg" caption="Løber på løbebåndet" %}
 
-Testcentret tilbyder følgende testpakker inden for cykling (landevej og mountainbike). Alle tests udføres på præcist udstyr af universitetsstandard (SRM cykelergometer m.m.). Priser og uddybende beskrivelser af tests findes også her. Vi tilbyder også forskellige muligheder for rabatter for grupper, klubber og forløb.
-
-{% assign projects = site.pages | where: "tags", "cykeltest" | sort: "date" %}
+{% assign projects = site.pages | where: "tags", "løbetest" | sort: "date" %}
 
 {% include grid.html grid=projects %}
-
-Udover overstående kan vi også tilbyde peak power tests af anaerob karakter (såsom 6 og 30 sekunders sprinter). Kontakt os for nærmere information herom.
 
 ## Rabatter
 
@@ -37,3 +33,5 @@ Er I en mindre gruppe på mellem 2-4 personer, der har mulighed for at blive tes
 ### Klubtilbud
 
 Er I en klub eller et hold hvor flere personer ønsker at blive testet, kan der laves et klubtilbud baseret på antallet af tests. For nærmere priser og information kontakt testcentret.
+
+[Bestil en test](/kontakt){: .btn .btn-warning .btn-large}

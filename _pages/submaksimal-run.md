@@ -8,11 +8,27 @@ hero:
     <p>Stor tak til Vejle Idrætsskolers Testcenter for at blive "tæsket" igennem på løbebåndet. Det kan varmt anbefales!</p>
     <p>- Kennie, København</p>
 image: /assets/images/icons8-cycling-80.png
-description: "Udover den submaksimale test (se beskrivelse til venstre) udføres der her også en maksimal test, hvor formålet er at bestemme den maksimale aerobe arbejdskapacitet, herunder den maksimale iltoptagelseshastighed og kondital. Der måles maksimale værdier for iltoptagelse, CO2-udveksling, puls, lungekapacitet, og laktat."
+description: "Formålet er her at bestemme den fysiske kapacitet ved den aerobe (AeT) og anaerobe tærskel (AT), som samlet vil give et fyldestgørende billede af udholdenheden for kredsløb og muskler. Testen udføres på løbebånd, og der måles løbende iltoptagelse, CO2-udveksling, puls, laktat, arbejdsintensitet og løbeøkonomi. Ud fra dette identificeres træningszoner, der kan bruges i den efterfølgende træningsperiode."
 published: true
 price: 1000,-
 tags:
   - løbetest
 ---
 
-Jeg vil gerne have lov at sige rigtigt mange tak for et rigtigt spændende forløb. Jeg kan samstemmende fra mine kollegaer og jeg selv sige, at det har været rigtigt spændende og lærerigt, så det har været en rigtig god oplevelse for os.
+Formålet med den submaksimale-test er at bestemme den fysiske kapacitet ved den aerobe (AeT) og anaerobe tærskel (AT), som samlet vil give et fyldestgørende billede af udholdenheden for kredsløb og muskler. Testen udføres på løbebånd, og der måles løbende iltoptagelse, CO2-udveksling, puls, laktat, arbejdsintensitet og løbeøkonomi. Ud fra dette identificeres træningszoner, der kan bruges i den efterfølgende træningsperiode.
+
+Testen består af 10 min opvarmning og herefter ca. 5 belastningstrin af 5 min hvor intensiteten øges med 1 km/t mellem hvert trin. Der startes med relativ let intensitet, og sluttes ved en intensitet lige omkring "syregrænsen" (omkring 4 mmol laktat).
+
+Samlet varighed er ca. 40 min inkl. opvarmning.
+
+Her ses et eksempel på værdier, der bestemmes ved denne test:
+
+{% include figure image_path="/assets/images/submax-vaerdier.jpg" caption="Submaksimale værdier" %}
+
+Obs: % af VO2max/maksimal puls kan kun etableres, hvis der også samtidigt foretages en maksimal test.
+
+På baggrund af ovenstående, er det muligt at estimere en række træningszoner:
+
+{% include figure image_path="/assets/images/traeningszoner.jpg" caption="Træningszoner" %}
+
+[Bestil en test](/kontakt){: .btn .btn-warning .btn-large}

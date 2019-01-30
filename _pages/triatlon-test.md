@@ -1,7 +1,7 @@
 ---
 layout: page
 show_headline: true
-title: Triatlontests (cykel og løb)
+title: Triatlon (cykel- og løbetest)
 intro: Vi byder både motionisten og elite-udøveren velkommen i testcentret.
 hero:
   text: >-
@@ -13,6 +13,8 @@ published: true
 tags:
   - triatlon
 ---
+
+{% include figure image_path="/assets/images/20130618-2k2a1079-311.jpg" caption="Triatlet" alt="Triatlontests i Testcenteret" %}
 
 Vi tilbyder følgende testpakker inden for triatlon, som er kombinerede cykel- og løbetest (også relevant for duatleter og adventureracere). Uddybende beskrivelser og priser kan også ses her.
 
@@ -33,3 +35,5 @@ Er I en mindre gruppe på mellem 2-4 personer, der har mulighed for at blive tes
 ### Klubtilbud
 
 Er I en klub eller et hold hvor flere personer ønsker at blive testet, kan der laves et klubtilbud baseret på antallet af tests. For nærmere priser og information kontakt testcentret.
+
+[Bestil en test](/kontakt){: .btn .btn-warning .btn-large}

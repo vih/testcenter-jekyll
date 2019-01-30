@@ -34,3 +34,5 @@ På baggrund af den fysiologiske profil udarbejdes:
 * **Træningsanbefalinger** til brug i den daglige træning
 
 Efter testen gives uddybende feedback på den fysiologiske profil og kapacitet samt eventuelt præstationsfremgang (dette er aktuelt ved flere test henover en periode).
+
+[Bestil en test](/kontakt){: .btn .btn-warning .btn-large}

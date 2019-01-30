@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Submaksimal løbetest
+title: Submaksimal cykeltest
 show_headline: true
-intro: Vi tilbyder bl.a. submaksimale løbetests i testcenteret.
+intro: Vi tilbyder bl.a. submaksimale cykeltests i testcenteret.
 hero:
   text: >-
     <p>Stor tak til Vejle Idrætsskolers Testcenter for at blive "tæsket" igennem på løbebåndet. Det kan varmt anbefales!</p>
@@ -20,3 +20,5 @@ Formålet med den submaksimale cykel-test er at bestemme den fysiske kapacitet v
 Testen består af 10 min opvarmning og herefter ca. 5 belastningstrin á 5 minutter, hvor belastningen øges med 30 watt mellem hvert trin. Der startes med relativ let belastning, og sluttes ved en belastning lige omkring syregrænsen (ca. 4 mmol laktat).
 
 Samlet varighed er ca. 40 min inkl. opvarmning.
+
+[Bestil en test](/kontakt){: .btn .btn-warning .btn-large}

@@ -36,3 +36,5 @@ Alle elever laver følgende test (max 30 elever):
 - Alle data indsamles og eftersendes, så det efterfølgende kan bruges i undervisning på egen skole
 
 Hvis I har specielle ønsker eller spørgsmål til testbatteri eller målgruppe, så må I meget gerne kontakte os.
+
+[Bestil en test](/kontakt){: .btn .btn-warning .btn-large}

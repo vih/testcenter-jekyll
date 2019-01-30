@@ -26,3 +26,5 @@ Nedenfor ses eksempler på hvad et testbatteri for fodbold og håndbold kan inde
 {% assign projects = site.pages | where: "tags", "teamsport" | sort: "date" %}
 
 {% include grid.html grid=projects %}
+
+[Bestil en test](/kontakt){: .btn .btn-warning .btn-large}
