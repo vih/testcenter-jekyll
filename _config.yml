@@ -152,6 +152,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-redirect-from
+  - jekyll-remote-theme
 
 
 # mimic GitHub Pages with --safe
@@ -202,8 +203,6 @@ compress_html:
 
 # Add custom collections
 collections:
-  pages:
-    output: true
 
 
 # Set defaults
