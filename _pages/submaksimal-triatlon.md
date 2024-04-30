@@ -3,6 +3,7 @@ layout: page
 title: Submaksimal cykel- og løbetest
 show_headline: true
 intro: Her får du bestemt din submaksimale ydeevne til triatlon.
+redirect_to: https://www.vih.dk/testcenter/loeb-cykling-triatlon/triatlon/
 hero:
   text: >-
     <p>Stor tak til Vejle Idrætsskolers Testcenter for at blive "tæsket" igennem på løbebåndet. Det kan varmt anbefales!</p>

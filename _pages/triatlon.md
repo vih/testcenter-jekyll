@@ -4,6 +4,7 @@ title: Løb, cykling & triatlon
 show_headline: true
 intro: Vi byder både motionisten og elite-udøveren velkommen i testcentret.
 permalink: /triatlon/
+redirect_to: https://www.vih.dk/testcenter/loeb-cykling-triatlon/triatlon/
 hero:
   text: >-
     <p>I skal have meget ros for den energi, som I får skabt i lokalet. Stemningen var meget professionel, men samtidig afslappet - det var meget motiverende.</p>

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Cykeltests
+redirect_to: https://www.vih.dk/testcenter/loeb-cykling-triatlon/cykeltest/
 show_headline: true
 intro: Vi byder både motionisten og elite-udøveren velkommen i testcentret.
 hero:

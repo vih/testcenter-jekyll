@@ -2,6 +2,7 @@
 layout: page
 title: Submaksimal cykel- og løbetest + maksimal løbetest
 show_headline: true
+redirect_to: https://www.vih.dk/testcenter/loeb-cykling-triatlon/
 intro: Her får du hele testpakken til at få din størrelsen af din fysiske motor til triatlon.
 hero:
   text: >-

@@ -2,6 +2,7 @@
 layout: page
 title: Fodbold
 show_headline: true
+redirect_to: https://www.vih.dk/testcenter/holdsport/
 image: /assets/images/idraetshoejskolen_74_0_0.jpg
 description: "Det er veldokumenteret, at fodbold er en intervalpræget sport med mange aktivitetsskift involverende højintensive løb, accelerationer, sprint, hop, tacklinger og retningsskift."
 published: true

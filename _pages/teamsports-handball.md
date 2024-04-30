@@ -2,6 +2,7 @@
 layout: page
 title: Håndbold
 show_headline: true
+redirect_to: https://www.vih.dk/testcenter/holdsport/
 image: /assets/images/www-5.jpg
 description: "Moderne håndbold har udviklet sig til at være en fysisk og intervalpræget kontaktsport, der stiller krav til flere aspekter af spillernes fysik."
 published: true

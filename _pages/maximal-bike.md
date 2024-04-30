@@ -2,6 +2,7 @@
 layout: page
 title: Submaksimal & maksimal cykeltest
 show_headline: true
+redirect_to: https://www.vih.dk/testcenter/loeb-cykling-triatlon/cykeltest/
 intro: Ud over den submaksimale cykeltest får du også en maximal cykeltest.
 hero:
   text: >-
